@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@lrnwebcomponents/meme-maker": "^7.0.18"
+  }
+}
